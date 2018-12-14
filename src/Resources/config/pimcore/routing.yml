@@ -1,0 +1,5 @@
+core_pim_user_login_history:
+    resource: "@CorepimUserLoginHistoryBundle/Controller/"
+    type:     annotation
+    prefix:   /
+

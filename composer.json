@@ -1,0 +1,20 @@
+{
+    "name": "corepim/user-login-history",
+    "type": "pimcore-bundle",
+    "license": "GPL-3.0+",
+    "description": "A Pimcore 5.x Bundle which helps you to track the login details of backend users.",
+    "keywords": ["pimcore", "user"],
+    "homepage": "https://github.com/corepim/",
+    "authors": [
+        {
+            "name": "Er Faiyaz Alam",
+            "role": "Developer"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Corepim\\UserLoginHistoryBundle\\": "src"
+        }
+    }
+}
