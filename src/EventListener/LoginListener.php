@@ -24,7 +24,7 @@ use Pimcore\Log\Simple;
 use Pimcore\Tool\Session;
 use Carbon\Carbon;
 use Corepim\UserLoginHistoryBundle\Session\Configurator\SessionUserConfigurator;
-use Corepim\UserLoginHistoryBundle\Helper\Object as ObjectHelper;
+use Corepim\UserLoginHistoryBundle\Helpers\ObjectHelper;
 
 class LoginListener {
 

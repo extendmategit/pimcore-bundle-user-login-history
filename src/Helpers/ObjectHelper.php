@@ -12,12 +12,12 @@
  * @author     Er Faiyaz Alam (https://www.linkedin.com/in/er-faiyaz-alam-0704219a/)
  */
 
-namespace Corepim\UserLoginHistoryBundle\Helper;
+namespace Corepim\UserLoginHistoryBundle\Helpers;
 
 use Pimcore\File;
 use Pimcore\Model\Element\Service;
 
-class Object {
+class ObjectHelper {
 
     public static function getValidKey($key) {
         $bool = method_exists('Pimcore\Model\Element\Service', 'getValidKey');
