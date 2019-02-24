@@ -20,7 +20,7 @@ use Corepim\UserLoginHistoryBundle\Tool\Installer;
 
 class CorepimUserLoginHistoryBundle extends AbstractPimcoreBundle {
 
-    const BUNDLE_VERSION = '1.0.0';
+    const BUNDLE_VERSION = '1.0.1';
 
     /**
      * @param ContainerBuilder $container
