@@ -1,6 +1,3 @@
-
-
-
 # User Login History Bundle for Pimcore 5.x
 
 The bundle helps you to track the login details of backend users with the following attributes:
@@ -50,16 +47,12 @@ If this useful bundle solved your problem, please donate $5 to support the advan
 
 
 ## Copyright and License
-Copyright (C) 2018 [Corepim.com](http://corepim.com "We develop bundles for Pimcore")  
+Copyright (C) 2020 [UserLoginHistory.com](http://userloginhistory.com "We develop bundles for Pimcore")  
 For licensing details, please visit [LICENSE.md](LICENSE.md)  
 
 ## About Author
 
-Hello, my name is Faiyaz Alam and I have been indulged in software development since my college days.
-My open tool-box is filled with these core skills: Symfony, CakePHP, Zend, Pimcore, WordPress, Magento, jQuery.
-To increase the size of my tool-box, I constantly add new technologies in the box.
-These days, I am doing Node.JS, React.JS and Python-3.
-
+Hello, my name is Faiyaz Alam and I have 7+ years experience of website development.
 For more information, please visit my [LinkedIn profile](https://www.linkedin.com/in/er-faiyaz-alam-0704219a/ "Er Faiyaz Alam LinkedIn Profile") .
 
 
