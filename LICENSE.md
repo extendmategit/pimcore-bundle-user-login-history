@@ -1,5 +1,5 @@
 # License
-Copyright (C) 2018 http://corepim.com
+Copyright (C) 2020 [UserLoginHistory.com](http://userloginhistory.com "We develop bundles for Pimcore")
 
 This software is available under the GNU General Public License version 3 (GPLv3).
 
