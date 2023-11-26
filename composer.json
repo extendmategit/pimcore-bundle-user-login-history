@@ -1,20 +1,22 @@
 {
-    "name": "corepim/user-login-history",
-    "type": "pimcore-bundle",
+    "name": "extendmate/user-login-history-bundle",
     "license": "GPL-3.0+",
-    "description": "A Pimcore 5.x Bundle which helps you to track the login details of backend users.",
-    "keywords": ["pimcore", "user"],
-    "homepage": "https://github.com/corepim/",
-    "authors": [
-        {
-            "name": "Er Faiyaz Alam",
-            "role": "Developer"
-        }
-    ],
-
+    "type": "pimcore-bundle",
+    "description": "Track login activities of backend users.",
     "autoload": {
-        "psr-4": {
-            "Corepim\\UserLoginHistoryBundle\\": "src"
-        }
+      "psr-4": {
+        "ExtendMate\\Bundle\\UserLoginHistoryBundle\\": "src/"
+      }
+    },
+    "require": {
+      "pimcore/pimcore": "^11.0"
+    },
+    "extra": {
+      "pimcore": {
+        "bundles": [
+          "ExtendMate\\Bundle\\UserLoginHistoryBundle\\ExtendMateUserLoginHistoryBundle"
+        ]
+      }
     }
-}
+  }
+  
