@@ -24,7 +24,7 @@ The bundle helps you to track the login details of backend users with the follow
 ```
  2. Run the below command:
 ```bash
-composer update
+composer install
 ```
  3. Activate and then install it through backend.
  4. Done. Now re-login to check the user login history in **Data Objects** section. 
@@ -43,17 +43,15 @@ Please search the forum before creating a new issue.
 If this useful bundle solved your problem, please donate $5 to support the advancement of the bundle.
 
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/erfaiyazalam/)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/erfaiyazalam/)
 
 
 ## Copyright and License
-Copyright (C) 2020 [UserLoginHistory.com](http://userloginhistory.com "We develop bundles for Pimcore")  
+Copyright © 2023-2024 [UserLoginHistory.com](http://userloginhistory.com). 
 For licensing details, please visit [LICENSE.md](LICENSE.md)  
 
 ## About Author
-
-Hello, my name is Faiyaz Alam and I have 7+ years experience of website development.
-For more information, please visit my [LinkedIn profile](https://www.linkedin.com/in/er-faiyaz-alam-0704219a/ "Er Faiyaz Alam LinkedIn Profile") .
+Please visit my [LinkedIn profile](https://www.linkedin.com/in/erfaiyazalam/ "Faiyaz Alam LinkedIn Profile") .
 
 
 ## Keywords
