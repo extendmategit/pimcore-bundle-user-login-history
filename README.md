@@ -1,3 +1,5 @@
+## Looking for Pimcore 11.x [Click Here](https://github.com/extendmategit/pimcore-bundle-login-tracker) ##
+
 # User Login History Bundle for Pimcore 5.x
 
 The bundle helps you to track the login details of backend users with the following attributes:
@@ -30,30 +32,30 @@ composer install
  4. Done. Now re-login to check the user login history in **Data Objects** section. 
 
 ## Suggest New Feature
-If you have any new idea for new feature, please share the same.
 
+Do you have an innovative idea for a new feature? We'd love to hear from you!
 
 ## Bug Fixes
-If you find any bug, please create an issue with a step by step description to reproduce the bug.
-Please search the forum before creating a new issue.
+
+Spot a bug? Kindly create an issue, providing a step-by-step description to reproduce the problem. Please search the forum before opening a new issue.
+
+## Support Development
+
+If you found this bundle helpful, consider donating $5 to support its ongoing enhancements and improvements.
 
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/erfaiyazalam/)
 
-## Donate
-If this useful bundle solved your problem, please donate $5 to support the advancement of the bundle.
+## Copyright and Licensing
 
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/erfaiyazalam/)
-
-
-## Copyright and License
-Copyright © 2023-2024 [UserLoginHistory.com](http://userloginhistory.com). 
-For licensing details, please visit [LICENSE.md](LICENSE.md)  
+Copyright (C) [extendmate.com](https://extendmate.com)  
+For licensing details, please visit [LICENSE.md](LICENSE.md)
 
 ## About Author
-Please visit my [LinkedIn profile](https://www.linkedin.com/in/erfaiyazalam/ "Faiyaz Alam LinkedIn Profile") .
 
+Greetings! I'm Faiyaz, the owner of extendmate.com. I have over 10 years of experience in website development.
+
+Explore more about me on my [LinkedIn profile](https://www.linkedin.com/in/erfaiyazalam/ "Faiyaz Alam LinkedIn Profile") .
 
 ## Keywords
-login log,online user,login form security,report,brute force detector, user log, log, logger, detector, 
-tracker, admin, xml-rpc, profile, manager, report, statistics, activity, fail login attempt detector
+login tracker, login activity, login logs, pimcore admin
